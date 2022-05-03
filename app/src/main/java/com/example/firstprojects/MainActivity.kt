@@ -27,28 +27,7 @@ class MainActivity : AppCompatActivity() {
         listviews.setOnItemClickListener { adapterView, view, postion, l ->
 
 var item = numbers[postion]
-            Toast.makeText(applicationContext," selected" +
-                    "
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    no  $item",Toast.LENGTH_SHORT).show()
         }
     }
 
