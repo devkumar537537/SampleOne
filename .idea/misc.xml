@@ -4,18 +4,22 @@
     <option name="filePathToZoomLevelMap">
       <map>
 <<<<<<< HEAD
+<<<<<<< HEAD
         <entry key="..\:/Users/Aditya/AndroidStudioProjects/Hubexample/SampleOne/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Aditya/AndroidStudioProjects/Hubexample/SampleOne/app/src/main/res/layout/listviewformate.xml" value="0.25" />
 =======
         <entry key="..\:/Users/Alpha/projectsender/SampleOne/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
 >>>>>>> 657872a060e2ae0d252bdb35a4ec82b4cbd3a50e
+=======
+        <entry key="..\:/AndroidWork/ProjectOnline/SampleOne/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+>>>>>>> 62a11a2dfae1731aab650235c2ba9f2b22b9b84d
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="app/src/main/res/layout/listviewformate.xml" value="0.25" />
         <entry key="app/src/main/res/menu/contextmenu.xml" value="0.1421875" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
