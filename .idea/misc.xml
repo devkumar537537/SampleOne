@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+<<<<<<< HEAD
         <entry key="..\:/Users/Aditya/AndroidStudioProjects/Hubexample/SampleOne/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Aditya/AndroidStudioProjects/Hubexample/SampleOne/app/src/main/res/layout/listviewformate.xml" value="0.25" />
+=======
+        <entry key="..\:/Users/Alpha/projectsender/SampleOne/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+>>>>>>> 657872a060e2ae0d252bdb35a4ec82b4cbd3a50e
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="app/src/main/res/layout/listviewformate.xml" value="0.25" />
         <entry key="app/src/main/res/menu/contextmenu.xml" value="0.1421875" />
